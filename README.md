@@ -16,8 +16,8 @@ Impressão ordenada: ordena e mostra a lista por 2 campos diferentes (nome em or
 
 Arquivos
 
-main.py: código principal do programa.
+main.py
 
-dados.json: arquivo criado automaticamente para guardar os dados.
+dados.json
 
-README.md: documentação do trabalho.
+README.md
